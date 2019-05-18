@@ -1,6 +1,6 @@
 
 
-### [Plotly Homework](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards)
+### [D3 Homework](https://modelo-bootcamp.github.io/16-Assignment---Data-Journalism-and-D3/)
 
 # Unit 16 | Assignment - Data Journalism and D3
 
